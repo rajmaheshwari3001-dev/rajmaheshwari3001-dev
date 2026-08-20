@@ -84,7 +84,7 @@
 <!-- Coding Activity and Leetcode -->
 <p align="center">
   <a href="https://leetcode.com/u/9760497925/">
-    <img src="https://leetcard.jacoblin.cool/9760497925?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats">
+    <img src="https://leetcard.jacoblin.cool/9760497925?theme=dark&font=Outfit&ext=activity&hide=title" alt="LeetCode Stats">
   </a>
 </p>
 
