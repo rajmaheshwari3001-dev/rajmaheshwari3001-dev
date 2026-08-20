@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <a href="https://github.com/rajmaheshwari3001-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🔥+AI%2FML+DEVELOPER+%E2%80%A2+SOFTWARE+ENGINEER+🔥;🚀+Crafting+Intelligent+Systems+🚀;🛠️+Architecting+Robust+Backends+🛠️;✨+Designing+Luxury+UIs+✨" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=AI%2FML+DEVELOPER+%E2%80%A2+SOFTWARE+ENGINEER;Crafting+Intelligent+Systems;Architecting+Robust+Backends;Designing+Luxury+UIs" alt="Typing SVG"/>
   </a>
 </h3>
 
@@ -27,7 +27,7 @@
 
 <!-- Core Philosophy Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=36&pause=10000&color=FF4500&center=true&vCenter=true&width=600&lines=🌟+CORE+PHILOSOPHY+🌟" alt="Core Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=36&pause=10000&color=FF4500&center=true&vCenter=true&width=600&lines=CORE+PHILOSOPHY" alt="Core Philosophy" />
 </div>
 
 <div align="center">
@@ -49,13 +49,13 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
     <td align="center" width="50%" style="border: none; background-color: transparent;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=26&pause=10000&color=00F0FF&center=true&vCenter=true&width=400&lines=💻+Development+Arsenal" alt="Dev Stack" /><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=26&pause=10000&color=00F0FF&center=true&vCenter=true&width=400&lines=Development+Arsenal" alt="Dev Stack" /><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,nextjs,nodejs,tailwind&perline=5" alt="Web Dev Tools" />
       </a>
     </td>
     <td align="center" width="50%" style="border: none; background-color: transparent;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=26&pause=10000&color=00FF00&center=true&vCenter=true&width=400&lines=🤖+AI+%26+Infrastructure" alt="AI Stack" /><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=26&pause=10000&color=00FF00&center=true&vCenter=true&width=400&lines=AI+%26+Infrastructure" alt="AI Stack" /><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,docker,aws,gcp,linux,git,bash,mysql&perline=5" alt="AI & Cloud Tools" />
       </a>
@@ -67,7 +67,7 @@
 
 <!-- Live GitHub Stats & Trophies -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=36&pause=10000&color=FF007F&center=true&vCenter=true&width=600&lines=🏆+GITHUB+FOOTPRINT+🏆" alt="Footprint" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=36&pause=10000&color=FF007F&center=true&vCenter=true&width=600&lines=GITHUB+FOOTPRINT" alt="Footprint" />
 </div>
 
 <p align="center">
@@ -77,8 +77,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=FF007F&title_color=FFD700" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajmaheshwari3001-dev&theme=radical&hide_border=true&background=0D1117&ring=FF007F&fire=FF4500&sideNums=00F0FF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajmaheshwari3001-dev&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <!-- Coding Activity and Leetcode -->
@@ -92,7 +92,7 @@
 
 <!-- Showcase Projects (Cards via HTML table) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=36&pause=10000&color=FFD700&center=true&vCenter=true&width=600&lines=🎨+MASTERPIECES+🎨" alt="Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=36&pause=10000&color=FFD700&center=true&vCenter=true&width=600&lines=MASTERPIECES" alt="Projects" />
 </div>
 
 <table align="center" width="100%" cellpadding="20" style="border: none; background-color: transparent;">
