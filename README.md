@@ -51,13 +51,13 @@
     <td align="center" width="50%" style="border: none; background-color: transparent;">
       <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=26&pause=10000&color=00F0FF&center=true&vCenter=true&width=400&lines=Development+Arsenal" alt="Dev Stack" /><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,nextjs,nodejs,tailwind&perline=5" alt="Web Dev Tools" />
+        <img src="https://skillicons.dev/icons?i=python,js,html,css,java,git,github,vscode,mysql,linux&perline=5" alt="Dev Tools" />
       </a>
     </td>
     <td align="center" width="50%" style="border: none; background-color: transparent;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=26&pause=10000&color=00FF00&center=true&vCenter=true&width=400&lines=AI+%26+Infrastructure" alt="AI Stack" /><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=26&pause=10000&color=00FF00&center=true&vCenter=true&width=400&lines=AI+%26+Data+Science" alt="AI Stack" /><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,docker,aws,gcp,linux,git,bash,mysql&perline=5" alt="AI & Cloud Tools" />
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,anaconda,flask,bash,docker&perline=5" alt="AI Tools" />
       </a>
     </td>
   </tr>
@@ -71,12 +71,13 @@
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaheshwari3001-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=rajmaheshwari3001-dev&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajmaheshwari3001-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Total%20Commits-100%2B-FF007F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode%20Problems-65%2B-FFD700?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-3%20Projects-00FF00?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
 <!-- Coding Activity and Leetcode -->
