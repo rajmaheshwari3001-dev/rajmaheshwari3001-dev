@@ -72,13 +72,13 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajmaheshwari3001-dev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rajmaheshwari3001-dev&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajmaheshwari3001-dev&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rajmaheshwari3001-dev&theme=radical&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
 </p>
 
 <!-- Coding Activity and Leetcode -->
