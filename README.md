@@ -1,11 +1,11 @@
 <!-- Extremely Colorful Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:8A2BE2,100:00F0FF&height=280&section=header&text=Raj%20Maheshwari&fontSize=75&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Building%20the%20future%20with%20AI%20and%20Code&descAlignY=65&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:8A2BE2,100:00F0FF&height=280&section=header&text=Raj%20Maheshwari&fontSize=75&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=65&descAlign=50" alt="Header Banner" />
 </div>
 
 <h3 align="center">
   <a href="https://github.com/rajmaheshwari3001-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=AI%2FML+DEVELOPER+%E2%80%A2+SOFTWARE+ENGINEER;Crafting+Intelligent+Systems;Architecting+Robust+Backends;Designing+Luxury+UIs" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=AI%2FML+ENGINEER+%E2%80%A2+FULL-STACK+DEVELOPER;Building+Intelligent+Systems;Scaling+Robust+Architectures;Crafting+Elegant+Solutions" alt="Typing SVG"/>
   </a>
 </h3>
 
@@ -75,9 +75,18 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00F0FF&text_color=FFFFFF" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaheshwari3001-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-100%2B-FF007F?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode%20Problems-65%2B-FFD700?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20Source-3%20Projects-00FF00?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-3%2B%20Projects-00FF00?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 <!-- Coding Activity and Leetcode -->
@@ -99,25 +108,38 @@
     <td align="center" width="33%" style="border: 2px solid #00FF00; border-radius: 15px; background-color: #002200; box-shadow: 0px 0px 15px rgba(0,255,0,0.5);">
       <h3>🟢 <a href="https://github.com/rajmaheshwari3001-dev/Trustlayer" style="color: #00FF00; text-decoration: none; text-shadow: 0 0 5px #00FF00;">Trustlayer</a></h3>
       <p style="color: #FFFFFF;"><i>AI-powered escrow & validation layer scoring freelance work quality before payment release.</i></p>
-      <b><code style="color: #00F0FF; background-color: #000000; font-size:14px;">HTML/CSS</code> <code style="color: #FFD700; background-color: #000000; font-size:14px;">Python</code> <code style="color: #FF007F; background-color: #000000; font-size:14px;">AI Validation</code></b>
+      <b><code style="color: #00F0FF; background-color: #000000; font-size:14px;">HTML/CSS</code> <code style="color: #FFD700; background-color: #000000; font-size:14px;">Python</code> <code style="color: #FF007F; background-color: #000000; font-size:14px;">AI</code></b>
     </td>
     <td align="center" width="33%" style="border: 2px solid #8A2BE2; border-radius: 15px; background-color: #1A0033; box-shadow: 0px 0px 15px rgba(138,43,226,0.5);">
       <h3>🟣 <a href="https://github.com/rajmaheshwari3001-dev/Excel-Data-Cleaning-Tool" style="color: #C77DFF; text-decoration: none; text-shadow: 0 0 5px #C77DFF;">Excel Data Cleaner</a></h3>
-      <p style="color: #FFFFFF;"><i>Automated utility for dataset sanitization, deduplication, and NaN handling for ML.</i></p>
+      <p style="color: #FFFFFF;"><i>Automated utility for dataset sanitization, deduplication, and NaN handling for ML pipelines.</i></p>
       <b><code style="color: #00F0FF; background-color: #000000; font-size:14px;">Python</code> <code style="color: #FFD700; background-color: #000000; font-size:14px;">Pandas</code> <code style="color: #FF007F; background-color: #000000; font-size:14px;">Automation</code></b>
     </td>
     <td align="center" width="33%" style="border: 2px solid #FF4500; border-radius: 15px; background-color: #330B00; box-shadow: 0px 0px 15px rgba(255,69,0,0.5);">
       <h3>🟠 <a href="https://github.com/rajmaheshwari3001-dev/-web-scraper" style="color: #FF7F50; text-decoration: none; text-shadow: 0 0 5px #FF7F50;">Web Scraper Core</a></h3>
-      <p style="color: #FFFFFF;"><i>High-performance parser to extract unstructured HTML data into structured ML datasets.</i></p>
+      <p style="color: #FFFFFF;"><i>High-performance parser extracting unstructured HTML into structured ML-ready datasets.</i></p>
       <b><code style="color: #00F0FF; background-color: #000000; font-size:14px;">Python</code> <code style="color: #FFD700; background-color: #000000; font-size:14px;">BeautifulSoup</code> <code style="color: #FF007F; background-color: #000000; font-size:14px;">Data Mining</code></b>
     </td>
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rajmaheshwari3001-dev&combine_all_yearly_contributions=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
+
 <br><br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF007F,100:FFD700&height=8&section=footer" width="80%" alt="Divider" />
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajmaheshwari3001-dev&bg_color=0D1117&color=00F0FF&line=FF007F&point=FFD700&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
@@ -130,6 +152,11 @@
 <br>
 
 <div align="center">
-  <h3><b style="color: #FF007F;">✨</b> <b style="color: #00F0FF;">Let's</b> <b style="color: #00FF00;">Create</b> <b style="color: #FFD700;">Something</b> <b style="color: #FF4500;">Extraordinary</b> <b style="color: #8A2BE2;">✨</b></h3>
+  <h3><b style="color: #FF007F;">✨</b> <b style="color: #00F0FF;">Let's</b> <b style="color: #00FF00;">Build</b> <b style="color: #FFD700;">Something</b> <b style="color: #FF4500;">Amazing</b> <b style="color: #8A2BE2;">Together</b> <b style="color: #FF007F;">✨</b></h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF007F,100:8A2BE2&height=120&section=footer" alt="Footer" />
 </div>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajmaheshwari3001-dev&color=FF007F&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
