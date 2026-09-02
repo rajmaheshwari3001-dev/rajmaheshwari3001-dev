@@ -75,11 +75,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00F0FF&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaheshwari3001-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&title_color=FF007F&icon_color=00F0FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajmaheshwari3001-dev&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <p align="center">
