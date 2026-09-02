@@ -75,8 +75,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaheshwari3001-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajmaheshwari3001-dev&theme=radical" alt="GitHub Stats & Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajmaheshwari3001-dev&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajmaheshwari3001-dev&theme=radical" alt="Overall Stats" />
 </p>
 
 <p align="center">
@@ -124,7 +128,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajmaheshwari3001-dev&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajmaheshwari3001-dev&theme=radical&utcOffset=5.5" alt="Activity Graph" />
 </div>
 
 <br>
