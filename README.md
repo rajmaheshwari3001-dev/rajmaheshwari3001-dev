@@ -75,8 +75,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true&title_color=FF007F&icon_color=00F0FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajmaheshwari3001-dev&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajmaheshwari3001-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmaheshwari3001-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -122,21 +122,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rajmaheshwari3001-dev&combine_all_yearly_contributions=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF007F,100:FFD700&height=8&section=footer" width="80%" alt="Divider" />
-</div>
-
-<br>
-
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajmaheshwari3001-dev&bg_color=0D1117&color=00F0FF&line=FF007F&point=FFD700&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajmaheshwari3001-dev&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <br>
